@@ -52,7 +52,7 @@ I am a **Senior Full-Stack Software Developer** with **5.5+ years of experience*
 
 ### 📫 Connect with me:
 
-<p align="left">
-<a href="https://www.linkedin.com/in/muhammed-oğur-04a441198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-ogur" height="30" width="40" /></a>
-<a href="mailto:m.ogur34@hotmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="m.ogur34@hotmail.com" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-oğur-04a441198/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.ogur34@hotmail.com)
+
+---
