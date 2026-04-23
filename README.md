@@ -1,32 +1,58 @@
-# Hi there, I'm Muhammed 👋
+# Hi there, I'm Muhammed 👋 
 
-[cite_start]I am a **Senior Full-Stack Software Developer** with 5.5+ years of experience in building robust, scalable enterprise solutions[cite: 9, 27]. [cite_start]I specialize in **Java (Spring Boot)** and **Angular**, focusing on microservices architecture, secure integrations, and high-performance system design[cite: 9, 14].
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-### 🛠 Technical Toolbox
+I am a **Senior Full-Stack Software Developer** with **5.5+ years of experience**. I build high-performance, enterprise-level applications specializing in the Java ecosystem and modern frontend frameworks.
 
-| Category | Skills |
-| :--- | :--- |
-| **Backend** | [cite_start]Java (8, 11, 17, 21), Spring Boot, Spring Cloud, Hibernate, JPA  |
-| **Frontend** | [cite_start]Angular 13, TypeScript, HTML5, CSS3 [cite: 13] |
-| **Database** | [cite_start]PostgreSQL, MySQL, Oracle, Elasticsearch, Liquibase [cite: 15, 16] |
-| **DevOps & Cloud** | [cite_start]Docker, Kubernetes, Jenkins, Git, Bitbucket [cite: 18, 19] |
-| **Messaging** | [cite_start]Kafka, ActiveMQ, Consul [cite: 17] |
-| **Architecture** | [cite_start]Microservices, RESTful APIs, SOLID, Design Patterns, Clean Code [cite: 9, 14] |
+---
 
-### 💼 Career Highlights
+### 🚀 Featured Projects
 
-* [cite_start]**Senior Software Developer at Verion Teknoloji:** Leading SFTP secure transfer services and full-stack UETS PTT integration projects[cite: 28, 31, 33].
-* [cite_start]**Intelligent Transportation Systems:** Designed and developed architectural components for AUS and HGS/OGS recognition systems using OCR cameras and ActiveMQ[cite: 41, 47, 48].
-* [cite_start]**Enterprise Campaign Management:** Led the cloud migration of campaign management platforms for **TOGG** and designed multi-layered security architectures at Etiya[cite: 53, 59, 60].
-* [cite_start]**Testing & Quality:** Strong commitment to TDD with consistent 70%+ code coverage on enterprise-level projects[cite: 10, 58].
+#### 🏢 Verion Teknoloji - SFTP & UETS PTT Integration
+* **SFTP Project:** Developed a secure file transfer service using **Spring Boot** and **Hibernate**, managing complex metadata and secure protocols.
+* **PTT Integration:** Built a full-stack system for the National Electronic Notification System (UETS), enabling secure communication flows.
 
-### 📊 GitHub Stats
+#### 🚗 TOGG - Cloud Migration & Campaign Management
+* **Cloud Leadership:** Led the migration of the campaign management platform to the cloud for **TOGG**.
+* **Infrastructure:** Set up the entire project on corporate servers, ensuring high availability and scalability.
 
-![Muhammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-ogur34&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-ogur34&layout=compact&theme=tokyonight)
+#### 🛣️ Intetra - Intelligent Transportation Systems (ITS)
+* **HGS/OGS Systems:** Developed back-office architectures for toll collection using **OCR camera** integration.
+* **Messaging:** Implemented **ActiveMQ** for real-time data processing across transportation networks.
 
-### 📧 Get in Touch
+#### 📊 Etiya - Enterprise Campaign System
+* **Security:** Designed multi-layered security architectures for large-scale campaign engines.
+* **Performance:** Optimized **PostgreSQL** schemas for millions of data rows, achieving 70%+ unit test coverage.
 
-- [cite_start]🌍 Location: Tuzla/İstanbul [cite: 5]
-- [cite_start]✉️ Email: [m.ogur34@hotmail.com](mailto:m.ogur34@hotmail.com) [cite: 6]
-- 🔗 LinkedIn: [Muhammed Oğur](https://www.linkedin.com/in/muhammed-oğur-04a441198/)
+---
+
+### 🛠 Tech Stack
+
+- **Backend:** `Java 8/11/17/21`, `Spring Boot`, `Spring Cloud`, `Hibernate`, `JPA`
+- **Frontend:** `Angular 13+`, `TypeScript`, `HTML5/CSS3`, `RxJS`
+- **Infrastructure:** `Microservices`, `Docker`, `Kubernetes`, `Kafka`, `ActiveMQ`, `Jenkins`
+- **Database:** `PostgreSQL`, `Elasticsearch`, `Oracle`, `Liquibase`
+
+---
+
+### 📈 My GitHub Activity
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=m-ogur34&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-ogur34&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect with me:
+
+<p align="left">
+<a href="https://www.linkedin.com/in/muhammed-oğur-04a441198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-ogur" height="30" width="40" /></a>
+<a href="mailto:m.ogur34@hotmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="m.ogur34@hotmail.com" height="30" width="40" /></a>
+</p>
